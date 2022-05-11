@@ -1,0 +1,42 @@
+body {
+    background: url(../photos/FON.png);
+    background-repeat:no-repeat;
+    background-position: center ;
+    background-size: 1920px 1080px;
+
+
+}
+
+
+    
+
+body{
+    margin-left: 12.7cm;
+    margin-right: 14cm;
+    margin-bottom: 1cm;
+    background-attachment:fixed;
+    font-size: 30px;
+    
+}
+
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{ 
+    text-align: center;
+}
+h5 {
+    text-align: center;
+}
+
+a { 
+    color:#000;
+}
